@@ -1,3 +1,3 @@
-include(":model")
+includeinclude(":model")
 include(":httpsloader")
 include(":processor")
